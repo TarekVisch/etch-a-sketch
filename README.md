@@ -2,4 +2,4 @@
 
 ## TheOdinProject - [site](https://www.theodinproject.com/)
 
-#### Check out [demo](https://tarekvisch.github.io/etch-a-sketch/);
+#### Check out [demo](https://tarekvisch.github.io/etch-a-sketch/)
